@@ -4,4 +4,6 @@ A Flutter Project in short time
 
 ## App Screen short
 
-![Alt Text](git_component/image.png)
+![Alt Text](ostadlivetest
+/image.png
+)
